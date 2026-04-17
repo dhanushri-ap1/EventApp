@@ -1,0 +1,20 @@
+{
+    "alert": "⚠ Exit A is crowded. Use Exit B.",
+    "zones": [
+        {
+            "name": "Gate 3 Food",
+            "status": "Low",
+            "occupancy": "25%"
+        },
+        {
+            "name": "Exit A",
+            "status": "High",
+            "occupancy": "85%"
+        },
+        {
+            "name": "Restroom B",
+            "status": "Medium",
+            "occupancy": "55%"
+        }
+    ]
+}
